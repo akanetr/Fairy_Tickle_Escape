@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"shield","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"hat","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Clothes","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"ring","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":5,"atypeId":1,"description":"The clothes that Purmir wears from the beginning\nThere is a hole on the back so that the wings can be taken out properly","etypeId":4,"traits":[{"code":53,"dataId":4,"value":1}],"iconIndex":154,"name":"Fairy Clothes","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":1,"description":"Swimsuit with empty belly part\nIt seems to be called \"School Mizugi\" in other worlds","etypeId":4,"traits":[{"code":53,"dataId":4,"value":1}],"iconIndex":158,"name":"Tummy empty swimsuit","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":7,"atypeId":1,"description":"A collar worn after wearing this laboratory\nI can not remove it, I do not know what it is attached to","etypeId":5,"traits":[{"code":53,"dataId":5,"value":1}],"iconIndex":172,"name":"Collar","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":8,"atypeId":1,"description":"Cat Ears for Cat Cosplay\nMysteriously, when I touch my ears, I feel tickling like my ears","etypeId":3,"traits":[{"code":53,"dataId":5,"value":1}],"iconIndex":155,"name":"Cat ear","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":9,"atypeId":1,"description":"Small feathers growing on the back of Purmir\nYou can't spread these wings to fly unless you go outside","etypeId":5,"traits":[{"code":53,"dataId":5,"value":1}],"iconIndex":173,"name":"Small feather","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":10,"atypeId":1,"description":"The eye patch that Seri always wears.\nIt seems that the professor is obliged to attach it.","etypeId":5,"traits":[{"code":53,"dataId":5,"value":1}],"iconIndex":19,"name":"Eye patch","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":11,"atypeId":1,"description":"A little loose, long-sleeved T-shirt.\nEvery time I walk, there is a sound because of the bell on my chest.","etypeId":4,"traits":[{"code":53,"dataId":4,"value":1}],"iconIndex":135,"name":"Seri Clothes","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":12,"atypeId":1,"description":"Ahoge that grows on the top of the head.\nDoesn't it look like an angel ring?","etypeId":5,"traits":[{"code":53,"dataId":5,"value":1}],"iconIndex":70,"name":"Angelic ahoge","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":13,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":16,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
